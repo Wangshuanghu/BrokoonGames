@@ -26,7 +26,7 @@ const Admin = [
 
 const web = [
     {
-    avatar: '/teammate/随风潜入夜',
+    avatar: '/teammate/随风潜入夜.avif',
     name: '随风潜入夜',
     desc: '官网作者',
     links: [
@@ -161,7 +161,7 @@ const music = [
   
 const Power = [
   {
-    avatar: '/teammate/季风又绿东海岸',
+    avatar: '/teammate/季风又绿东海岸.avif',
     name: '季风又绿东海岸',
     title: '超级理工男',
     desc: '他以一人之力成为了制作组内最特色的人物',
