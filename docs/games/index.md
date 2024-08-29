@@ -14,9 +14,9 @@
 
 ## 创新游戏玩法
 <center>视觉小说</center>
-和
+<center>和</center>
 <center>音乐游戏</center>
-的
+<center>的</center>
 <center>交融</center>
 <center>大爆炸！</center>
 在Unity引擎支持下，我们将会做出更多的创新玩法！
