@@ -23,7 +23,6 @@ export default {
               items: [
                 { text: "随风的个人网站", link: "https://zhuyuxuan.link/" },
                 { text: "MCJPG", link: "https://mcjpg.org/" },
-                { text: "御坂秋生の小窝", link: "https://www.akio.top/" },
               ]
             }
         ],
