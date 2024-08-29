@@ -18,6 +18,7 @@ export default {
             { text: "首页", link: "/" },
             { text: "作品", link: "/games/" },
             { text: "团队", link: "/structure/" },
+            { text: "关于我们", link: "/aboutus/"},
             {
               text: "友情链接",
               items: [
