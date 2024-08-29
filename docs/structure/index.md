@@ -225,7 +225,7 @@ const Power = [
   </VPTeamPageSection>
 <VPTeamPageSection>
     <template #title>电焊组</template>
-    <template #lead>碎月网络最特殊的组别，他以一人之力成为了制作组内最特色的人物</template>
+    <template #lead>碎月网络最特殊的组别</template>
     <template #members>
       <VPTeamMembers size="small" :members="Power" />
     </template>
