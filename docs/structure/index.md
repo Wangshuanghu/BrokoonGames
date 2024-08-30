@@ -133,7 +133,7 @@ const art = [
       ]
   },
  {
-    avatar: '/teammate/星鹿ELEC.avif',
+    avatar: '/teammate/星鹿ELEC.png',
     name: '星鹿ELEC',
     title: '平面设计',
     desc: '平面设计大佬，曾制作多款Phira皮肤',
