@@ -15,13 +15,6 @@ hero:
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
-  actions:
-    - theme: brand
-      text: BIliBili
-      link: https://space.bilibili.com/3493122721975013
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
 ---
 <style>
 /*爱的魔力转圈圈*/
