@@ -200,7 +200,7 @@ const Power = [
       ]
   },
 ]
-const Power = [
+const pv = [
   {
     avatar: '/teammate/比丘道匠.avif',
     name: '比丘道匠',
