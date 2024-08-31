@@ -31,7 +31,7 @@ export default {
             { icon: "github", link: "https://github.com/Wangshuanghu/BrokoonGames" },
         ],
         footer: {
-            copyright: 'Copyright © 2024-present <a href="https://brokoon.college/">碎月网络</a>— —<a href="https://github.com/Wangshuanghu/BrokoonGames">我们的仓库</a>'
+            copyright: 'Copyright © 2022-2024 <a href="https://brokoon.college/">碎月网络</a>— —<a href="https://github.com/Wangshuanghu/BrokoonGames">我们的仓库</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {
