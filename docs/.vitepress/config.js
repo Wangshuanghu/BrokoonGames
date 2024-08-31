@@ -24,6 +24,7 @@ export default {
               items: [
                 { text: "随风的个人网站", link: "https://zhuyuxuan.link/" },
                 { text: "MCJPG", link: "https://mcjpg.org/" },
+                { text: "联动：Blophy Nova", link: "https://blophy.net/" },
               ]
             }
         ],
