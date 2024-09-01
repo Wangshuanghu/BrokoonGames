@@ -227,6 +227,15 @@ const pv = [
       ]
   },
 ]
+const pv = [
+  {
+    avatar: '/teammate/huawater.jpg',
+    name: 'HuaWaterED🍥🔮🍥',
+    title: '花水终',
+    desc: '帮忙挂载了我们的机器人',
+  },
+]
+
 </script>
 
 <VPTeamPage>
@@ -296,6 +305,13 @@ const pv = [
     <template #lead>碎月网络pv组</template>
     <template #members>
       <VPTeamMembers size="small" :members="pv" />
+    </template>
+  </VPTeamPageSection>
+<VPTeamPageSection>
+    <template #title>特别感谢</template>
+    <template #lead>他们的帮助，让我们有了能力</template>
+    <template #members>
+      <VPTeamMembers size="small" :members="SpecialThanks" />
     </template>
   </VPTeamPageSection>
 </VPTeamPage>
