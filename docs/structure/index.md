@@ -121,7 +121,7 @@ const art = [
       ]
   },
   {
-    avatar: '/teammate/噬狼.avif',
+    avatar: '/teammate/噬狼.jpg',
     name: '噬狼',
     title: '画师',
     desc: '多功能画师',
