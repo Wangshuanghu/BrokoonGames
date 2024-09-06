@@ -239,7 +239,7 @@ const pv = [
       ]
   },
 ]
-const pv = [
+const SpecialThanks = [
   {
     avatar: '/teammate/huawater.jpg',
     name: 'HuaWaterED🍥🔮🍥',
