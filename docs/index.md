@@ -18,7 +18,7 @@ hero:
       link: /games
 
     - theme: brand
-      text: 关于碎音杯
+      text: 关于碎音杯 
       link: /bromusiccup
       
     - theme: brand
@@ -27,7 +27,3 @@ hero:
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
-
-  text-align: right;
-}
-</style>
