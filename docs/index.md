@@ -16,21 +16,21 @@ hero:
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
   actions:
-    - theme: brand1
+    - theme: brand
       text: 关于「遇之泪」
       link: /games
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
   actions:
-    - theme: brand2
+    - theme: brand
       text: 关于碎音杯
       link: /bromusiccup
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
   actions:
-    - theme: brand3
+    - theme: brand
       text: 查看我们的社交媒体
       link: https://space.bilibili.com/3493122721975013?spm_id_from=333.1007.0.0
     # - theme: alt
