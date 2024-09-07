@@ -25,7 +25,7 @@ hero:
   actions:
     - theme: brand
       text: 关于碎音杯
-      link: /games
+      link: /bromusiccup
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
