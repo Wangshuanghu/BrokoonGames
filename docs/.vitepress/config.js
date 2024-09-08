@@ -20,7 +20,7 @@ export default {
             { text: "团队", link: "/structure/" },
         { text: “碎音杯” , link: "/bromusiccup/“ },
             { text: "关于我们", link: "/aboutus/"},
-        { text: "论坛" , link: "http://3xfrc.fun/forum.php?mod=forumdisplay&fid=89" },
+        { text: "论坛" , link: "http://3xfrc.fun/forum.php?mod=forumdisplay&fid=89/" },
             {
               text: "友情链接",
               items: [
