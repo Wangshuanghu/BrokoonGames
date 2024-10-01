@@ -94,6 +94,13 @@ const docs = [
       ]
   },
   {
+    avatar: '/teammate/落葵.jpg',
+    name: '落葵',
+    title: '文案组新人',
+    desc: '“是吗”“是吧”“跟了”',
+     },
+
+  {
     avatar: '/teammate/王双虎w.avif',
     name: '王双虎w',
     desc: '什么都会和组员一起干的好老板，经常和组员忙到凌晨',
