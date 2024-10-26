@@ -1,52 +1,64 @@
 {
-  "hash": "9d120527",
-  "configHash": "8332e8da",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "7a5f8332",
+  "hash": "58132445",
+  "configHash": "7d00e3c4",
+  "lockfileHash": "5fd82131",
+  "browserHash": "98a63724",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "70953858",
+      "fileHash": "13e318bf",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "6a0f2a10",
+      "fileHash": "9ce83716",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "7b8eca54",
+      "fileHash": "d61853eb",
       "needsInterop": false
     },
-    "vitepress > @vueuse/integrations/useFocusTrap": {
-      "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
-      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "84d08244",
+    "vitepress-plugin-music": {
+      "src": "../../../../node_modules/vitepress-plugin-music/lib/vitepress-plugin-music.js",
+      "file": "vitepress-plugin-music.js",
+      "fileHash": "da71effe",
       "needsInterop": false
     },
-    "vitepress > mark.js/src/vanilla.js": {
-      "src": "../../../../node_modules/mark.js/src/vanilla.js",
-      "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "bd4ec9ee",
+    "vitepress-plugin-comment-with-giscus": {
+      "src": "../../../../node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
+      "file": "vitepress-plugin-comment-with-giscus.js",
+      "fileHash": "7b400517",
       "needsInterop": false
     },
-    "vitepress > minisearch": {
-      "src": "../../../../node_modules/minisearch/dist/es/index.js",
-      "file": "vitepress___minisearch.js",
-      "fileHash": "53838f45",
+    "medium-zoom": {
+      "src": "../../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
+      "file": "medium-zoom.js",
+      "fileHash": "608442f7",
+      "needsInterop": false
+    },
+    "canvas-confetti": {
+      "src": "../../../../node_modules/canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "fcce69a9",
+      "needsInterop": false
+    },
+    "@mdit-vue/shared": {
+      "src": "../../../../node_modules/@mdit-vue/shared/dist/index.mjs",
+      "file": "@mdit-vue_shared.js",
+      "fileHash": "3c4aded2",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-7LUTEMNG": {
-      "file": "chunk-7LUTEMNG.js"
+    "giscus-aTimukGI-3WRXBPPC": {
+      "file": "giscus-aTimukGI-3WRXBPPC.js"
     },
-    "chunk-PAUCAATC": {
-      "file": "chunk-PAUCAATC.js"
+    "chunk-L2JNJ22P": {
+      "file": "chunk-L2JNJ22P.js"
     }
   }
 }
