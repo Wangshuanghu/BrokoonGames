@@ -113,13 +113,23 @@ function updateHomePageStyle(value: boolean) {
 
 const playlist = [
   {
-    name: 'Otherside',
-    author: 'Mojang',
-    file: '/music/otherside.mp3',
+    name: 'Start-Home',
+    author: 'Endcat-终猫',
+    file: '/music/Start-Home.mp3',
   },
   {
-    name: 'maimai DX',
-    author: 'SEGA',
-    file: '/music/maimai-DX-prism.mp3',
+    name: 'Shine Line',
+    author: 'Hancai',
+    file: '/music/Shine line (2024 remaster）.mp3',
+  },
+  {
+    name: 'Sun Never Sets(EndCat vs RUFUKI)',
+    author: 'EndCat vs RUFUKI',
+    file: '/music/Sun Never Sets(EndCat vs RUFUKI).wav',
   }
+  {
+    name: 'Sun Never Sets(RUFUKI .ver)',
+    author: 'RUFUKI',
+    file: '/music/Sun Never Sets(RUFUKI .ver).wav',
+  },
 ]
