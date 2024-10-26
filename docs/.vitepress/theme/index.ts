@@ -126,7 +126,7 @@ const playlist = [
     name: 'Sun Never Sets(EndCat vs RUFUKI)',
     author: 'EndCat vs RUFUKI',
     file: '/music/Sun Never Sets(EndCat vs RUFUKI).wav',
-  }
+  },
   {
     name: 'Sun Never Sets(RUFUKI .ver)',
     author: 'RUFUKI',
