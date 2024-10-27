@@ -132,4 +132,9 @@ const playlist = [
     author: 'RUFUKI',
     file: '/music/Sun Never Sets(RUFUKI .ver).wav',
   },
+  {
+    name: 'UNE',
+    author: 'Hancai',
+    file: '/music/une.mp3',
+  },
 ]
