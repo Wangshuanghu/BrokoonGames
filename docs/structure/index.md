@@ -162,7 +162,7 @@ const cute = [
     <template #lead>认识一下 碎月网络 背后的年轻成员</template>
   </VPTeamPageTitle>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>官方账号</template>
     <template #lead>关注碎月游戏官方谢谢喵</template>
     <template #members>
@@ -170,7 +170,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>策划组</template>
     <template #lead>一切，从这里开始</template>
     <template #members>
@@ -178,7 +178,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>美工组</template>
     <template #lead>他们让你"看"得到故事</template>
     <template #members>
@@ -186,7 +186,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>音乐组</template>
     <template #lead>他们让你听到属于我们的声音</template>
     <template #members>
@@ -194,7 +194,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>技术组</template>
     <template #lead>一切的基石</template>
     <template #members>
@@ -202,7 +202,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>文案组</template>
     <template #lead>梦想的扩张</template>
     <template #members>
@@ -210,7 +210,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>PV组</template>
     <template #lead>让图像动起来</template>
     <template #members>
@@ -218,7 +218,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>谱师组</template>
     <template #lead>为音乐作出图像中的诠释</template>
     <template #members>
@@ -226,7 +226,7 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>运营组</template>
     <template #lead>让你知道我们</template>
     <template #members>
@@ -234,12 +234,11 @@ const cute = [
     </template>
   </VPTeamPageSection>
 
-<VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>吉祥物组/电焊组</template>
     <template #lead>可爱捏</template>
     <template #members>
       <VPTeamMembers size="small" :members="cute" />
     </template>
   </VPTeamPageSection>
-
 </VPTeamPage>
