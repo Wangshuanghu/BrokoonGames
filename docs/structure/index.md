@@ -71,7 +71,7 @@ const art = [
   },  
 ]
 
-const muiscal = [
+const musical = [
     {
     name: 'Lex清风',
     desc: '005号组员,曲师，任职于某交响乐团',
